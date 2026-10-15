@@ -15,10 +15,13 @@ A repository showcasing power supply design simulations, schematic reports, and 
 | 5 | Buck-Boost Converter | [View PDF](./Buck-Boost%20Converter.MPMC.pdf) |
 | 6 | Flyback Converter | [View PDF](./Flyback%20Converter.MPMC.pdf) |
 | 7 | LED Driver | [View PDF](./LED%20Driver.MPMC.pdf) |
+| 8 | SEPIC Converter | [View PDF](./SEPIC%20Converter.MPMC.pdf) |
+| 9 | Synchronous Buck Converter | [View PDF](./Synchronous%20Buck%20Converter.MPMC.pdf) |
 
 ---
 
 ## ⚙️ Tools Used
+
 * **Texas Instruments WEBENCH® Power Designer**
 * Thermal Analysis & Efficiency Calculation
 * Bill of Materials (BOM) Optimization
